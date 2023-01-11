@@ -18,14 +18,11 @@ There is a week negative correlation between lagged search trends and stock vola
 ### How's the near-term forecast for the popularity of MercadoLibre?
 By using prophet to create a time series model, a slight dip in hourly searches is forcasted in the short-term, from around 90 to 85 searches/ hour.
 
-## Summary
-I was able all questions without any problems. I also had other questions answered including:
-
 ### What time of day exhibits the greatest popularity?
-Answer: 00.00.00
+00.00.00
 
 ### Which day of week gets the most search traffic?
-Answer: Tuesday
+Tuesday
 
 ### What's the lowest point for search traffic in the calendar year?
-Answer: October
+October
